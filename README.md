@@ -3,6 +3,7 @@ Curated list of awesome tools.
 There are awesome lists for various themes. This list is just a mix of tools I find useful.
 
 ## Command line
+- [agent-qa](https://vostride.com) - Natural-language CLI/MCP QA for web, Android and iOS with memidex memory, reviewable self-improvement and run evidence.
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [lsix](https://github.com/hackerb9/lsix) - Like `ls`, but for images.
